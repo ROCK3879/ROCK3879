@@ -72,39 +72,3 @@ A short description of who you are as a developer, your passion for technology, 
 
 ## License
 This project is licensed under the ***** License - see the [LICENSE.md](LICENSE.md) file for details.
-
-name: Snake Game Workflow
-
-on:
-  push:
-    branches:
-      - main
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Checkout code
-        uses: actions/checkout@v2
-
-      - name: Set up Node.js
-        uses: actions/setup-node@v2
-        with:
-          node-version: '14'
-
-      - name: Install dependencies
-        run: npm install
-
-      - name: Run tests
-        run: npm test
-
-      - name: Build
-        run: npm run build
-
-  deploy:
-    runs-on: ubuntu-latest
-    needs: build
-    steps:
-      - name: Deploy to Hosting Service
-        # Add your deployment steps here
