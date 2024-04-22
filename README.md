@@ -12,63 +12,94 @@
 - ⚡ Fun fact: ...
 - 
 
-## Overview
-This repository contains the code and resources for my Full Stack Developer portfolio. As a Full Stack Developer, I specialize in both front-end and back-end development, creating scalable and interactive web applications. This portfolio showcases my skills, projects, and experience in various technologies and frameworks.
+<!-- Header -->
+<p align="center">
+  <img src="programming_bg_image.jpg" alt="Programming Background Image" width="100%">
+</p>
 
-## Technologies Used
-- **Frontend:**
-  - ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-  - ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) (Sass/SCSS)
-  - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-  - ![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
-  - ![Angular.js](https://img.shields.io/badge/-Angular.js-DD0031?style=flat-square&logo=angular&logoColor=white)
-  - ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+<!-- Title -->
+<h1 align="center">Full Stack Developer Portfolio</h1>
 
-- **Backend:**
-  - ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-  - ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-  - ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-  - ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-  - ![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white)
-  - ![ASP.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
+<!-- Overview -->
+<p align="center">
+  Welcome to my Full Stack Developer portfolio! I specialize in crafting innovative web solutions using cutting-edge technologies.
+</p>
 
-- **Databases:**
-  - ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-  - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-  - ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-  - ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-  - ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-  - ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+<!-- Technologies Used -->
+<h2 align="center">Technologies Used</h2>
 
-- **Other Tools & Technologies:**
-  - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) & ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-  - RESTful APIs
-  - GraphQL
-  - Docker
-  - ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) (S3, EC2, Lambda)
-  - ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
-  - Continuous Integration/Continuous Deployment (CI/CD) tools
+<p align="center">
+  <!-- Frontend -->
+  <img src="icons/html5.png" alt="HTML5" title="HTML5" width="50" height="50">
+  <img src="icons/css3.png" alt="CSS3" title="CSS3" width="50" height="50">
+  <img src="icons/javascript.png" alt="JavaScript" title="JavaScript" width="50" height="50">
+  <img src="icons/react.png" alt="React.js" title="React.js" width="50" height="50">
+  <img src="icons/angular.png" alt="Angular.js" title="Angular.js" width="50" height="50">
+  <img src="icons/vue.png" alt="Vue.js" title="Vue.js" width="50" height="50">
+  <!-- Backend -->
+  <img src="icons/nodejs.png" alt="Node.js" title="Node.js" width="50" height="50">
+  <img src="icons/express.png" alt="Express.js" title="Express.js" width="50" height="50">
+  <img src="icons/django.png" alt="Django" title="Django" width="50" height="50">
+  <img src="icons/flask.png" alt="Flask" title="Flask" width="50" height="50">
+  <img src="icons/ruby-on-rails.png" alt="Ruby on Rails" title="Ruby on Rails" width="50" height="50">
+  <img src="icons/aspnet.png" alt=".NET" title=".NET" width="50" height="50">
+  <!-- Databases -->
+  <img src="icons/mongodb.png" alt="MongoDB" title="MongoDB" width="50" height="50">
+  <img src="icons/mysql.png" alt="MySQL" title="MySQL" width="50" height="50">
+  <img src="icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL" width="50" height="50">
+  <img src="icons/sqlite.png" alt="SQLite" title="SQLite" width="50" height="50">
+  <img src="icons/firebase.png" alt="Firebase" title="Firebase" width="50" height="50">
+  <img src="icons/redis.png" alt="Redis" title="Redis" width="50" height="50">
+  <!-- Tools & Technologies -->
+  <img src="icons/git.png" alt="Git" title="Git" width="50" height="50">
+  <img src="icons/github.png" alt="GitHub" title="GitHub" width="50" height="50">
+  <img src="icons/docker.png" alt="Docker" title="Docker" width="50" height="50">
+  <img src="icons/aws.png" alt="AWS" title="AWS" width="50" height="50">
+  <img src="icons/heroku.png" alt="Heroku" title="Heroku" width="50" height="50">
+</p>
 
-## Projects
-### Project 1: [Project Name](link-to-project)
-Description: Brief description of the project.
-Technologies Used: List of technologies used in the project.
+<!-- Projects -->
+<h2 align="center">Projects</h2>
 
-### Project 2: [Project Name](link-to-project)
-Description: Brief description of the project.
-Technologies Used: List of technologies used in the project.
+<!-- Project 1 -->
+<h3 align="center">Project 1</h3>
+<p align="center">
+  <img src="project1_thumbnail.jpg" alt="Project 1 Thumbnail" width="300">
+  <br>
+  Brief description of Project 1.
+</p>
 
-### Project 3: [Project Name](link-to-project)
-Description: Brief description of the project.
-Technologies Used: List of technologies used in the project.
+<!-- Project 2 -->
+<h3 align="center">Project 2</h3>
+<p align="center">
+  <img src="project2_thumbnail.jpg" alt="Project 2 Thumbnail" width="300">
+  <br>
+  Brief description of Project 2.
+</p>
 
-## About Me
-A short description of who you are as a developer, your passion for technology, and your career goals.
+<!-- Project 3 -->
+<h3 align="center">Project 3</h3>
+<p align="center">
+  <img src="project3_thumbnail.jpg" alt="Project 3 Thumbnail" width="300">
+  <br>
+  Brief description of Project 3.
+</p>
 
-## Contact Information
-- **Email:** amir.prelic@gmail.com
-- **LinkedIn:** [Your LinkedIn Profile]([link-to-profile](https://www.linkedin.com/in/amirprelic977/))
-- **Portfolio Website:** [Your Portfolio Website](link-to-portfolio)
+<!-- About Me -->
+<h2 align="center">About Me</h2>
+<p align="center">
+  I'm passionate about building elegant solutions to complex problems. With a strong background in both frontend and backend development, I strive to create intuitive and efficient user experiences.
+</p>
 
-## License
-This project is licensed under the ***** License - see the [LICENSE.md](LICENSE.md) file for details.
+<!-- Contact Information -->
+<h2 align="center">Contact Information</h2>
+<p align="center">
+  📧 Email: your.email@example.com<br>
+  💼 LinkedIn: [Your LinkedIn Profile](link-to-profile)<br>
+  🌐 Portfolio Website: [Your Portfolio Website](link-to-portfolio)
+</p>
+
+<!-- Footer -->
+<p align="center">
+  <img src="footer_image.jpg" alt="Footer Image" width="100%">
+</p>
