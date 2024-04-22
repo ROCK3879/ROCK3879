@@ -51,7 +51,7 @@
 
 <p align="center">
   <!-- Add images or gifs of your projects with links to the repositories or live demos -->
-  <a href="link_to_project_1">
+  <a href="/media/Coffee_coders_house.jpg">
     <img src="project_1_image.jpg" width="300" alt="Project 1">
   </a>
   <a href="link_to_project_2">
