@@ -17,6 +17,8 @@
 <!-- Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/Full%20Stack%20Developer-Intermediate-brightgreen">
+  <img src="https://img.shields.io/badge/HTML5-Intermediate-yellow">
+  <img src="https://img.shields.io/badge/CSS-Intermediate-yellow">
   <img src="https://img.shields.io/badge/JavaScript-Intermediate-yellow">
   <img src="https://img.shields.io/badge/ReactJS-Intermediate-blue">
   <img src="https://img.shields.io/badge/Node.js-Intermediate-green">
