@@ -1,4 +1,6 @@
 # Full Stack Developer Portfolio
+<!-- Your Name -->
+<h1 align="left">Amir Prelic</h1>
 
 ### Hi there 👋
 
@@ -10,9 +12,33 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- 
-<!-- Your Name -->
-<h1 align="center">Amir Prelic</h1>
+
+<!-- My BIO title -->
+<h1 align="center">BIO</h1>
+
+<!-- My BIO --> 
+* 🚀 Empowering digital transformation | Encouraging innovation
+
+  - As a visionary in digital transformation, I am dedicated to revolutionizing the way companies work and thrive in the modern business environment. With a passion for leveraging technology to optimize processes and improve customer experience, I specialize in leading strategic initiatives that drive organizations towards success.
+
+* 🎯 Strategic Marketing Maven | A digital pioneer
+
+  - My expertise lies in orchestrating a variety of data-driven strategies that increase brand visibility, drive market performance and drive sustainable growth. From creating creative guidelines to implementing cutting-edge digital tactics, I thrive on delivering measurable results that exceed expectations.
+
+* 💡 Expert | Continuous learner
+
+  - With a diverse skill set that includes Microsoft 365, the Meta Business platform, Google ADS and a deep commitment to mastering new technologies in the direction of Full stack development, I am constantly evolving to stay ahead of the curve. From frontend to backend development, API to DevOps, I embrace challenges and embrace opportunities to expand my knowledge base.
+
+* 🌟 Influential leadership | Collaborative team player
+
+  - Driven by a philosophy of cooperation and empowerment, I excel in leading cross-functional teams to success. By fostering a culture of innovation, continuous learning and accountability, I foster environments where every team member can thrive and do their best.
+
+* 🔍 Vision for the future
+
+  - Driven by an unrelenting pursuit of excellence, I am passionate about shaping the future of technology and business. From pioneering AI-driven solutions to revolutionizing industry standards, I am committed to making a lasting impact on the world around me.
+
+<!-- My Summary -->
+<h1 align="center">Summary</h1>
 
 <!-- Badges -->
 <p align="center">
@@ -51,7 +77,7 @@
 
 <p align="center">
   <!-- Add images or gifs of your projects with links to the repositories or live demos -->
-  <a href="/media/Coffee_coders_house.jpg">
+  <a href="/media/">
     <img src="/media/Coffee_coders_house.jpg" width="300" alt="Project 1">
   </a>
   <a href="link_to_project_2">
