@@ -77,8 +77,8 @@
 
 <p align="center">
   <!-- Add images or gifs of your projects with links to the repositories or live demos -->
-  <a href="/media/">
-    <img src="/media/Coffee_coders_house.jpg" width="300" alt="Project 1">
+  <a href="/media/NBP6">
+    <img src="/media/NBP6" width="300" alt="Project 1">
   </a>
   <a href="link_to_project_2">
     <img src="project_2_image.jpg" width="300" alt="Project 2">
